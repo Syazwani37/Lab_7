@@ -23,5 +23,6 @@ $details = $user->getUser($matric);
     </select><br>
     <input type="submit" value="Update">
 </form>
+
 </body>
 </html>
